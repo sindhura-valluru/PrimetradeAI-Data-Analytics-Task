@@ -76,8 +76,7 @@ jupyter notebook TraderPerformancevsSentiment.ipynb
 
 - Greed days produce more **consistent** profitability (median PnL USD77.7 vs USD36.8); Fear days produce more **extreme** outcomes
 - PnL difference is statistically significant (Mann-Whitney U, p = 0.0198)
-- Large-position traders earn **3x
--  more** on Fear days; small-position traders outperform on Greed days
+- Large-position traders earn **3x more** on Fear days; small-position traders outperform on Greed days
 - Traders are contrarian **dip-buyers** on Fear days (54% long) despite lower median returns
 
 ---
