@@ -1,5 +1,5 @@
 # Trader Performance vs Market Sentiment
-**Primetrade.ai — Data Science/Analytics Internship Assignment**
+**Primetrade.ai: Data Science/Analytics Internship Assignment**
 
 Analysis of how Bitcoin market sentiment (Fear/Greed) relates to trader behavior and performance on Hyperliquid.
 
@@ -9,8 +9,8 @@ Analysis of how Bitcoin market sentiment (Fear/Greed) relates to trader behavior
 
 ```
 ├── TraderPerformancevsSentiment.ipynb   # Main analysis notebook
-├── fear_greed_index.csv              # Bitcoin Fear/Greed index dataset
-├── historical_data.csv               # Hyperliquid trader data
+├── fear_greed_index.csv                 # Bitcoin Fear/Greed index dataset
+├── historical_data.csv                  # Hyperliquid trader data
 ├── fig1_performance_by_sentiment.png
 ├── fig2_behavior_by_sentiment.png
 ├── fig3_leverage_segment.png
@@ -19,6 +19,11 @@ Analysis of how Bitcoin market sentiment (Fear/Greed) relates to trader behavior
 ├── fig6_long_bias.png
 ├── fig7_market_activity.png
 ├── fig8_cumulative_pnl.png
+├── fig_bonus1_elbow.png
+├── fig_bonus2_clusters_pca.png
+├── fig_bonus3_cluster_profiles.png
+├── fig_bonus4_feature_importance.png
+├── fig_bonus5_model_scores.png
 └── README.md
 ```
 
